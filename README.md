@@ -1,8 +1,5 @@
 # Data Dashboards for UiOcat
 
-* [GCAnalysis](#gc-analysis)
-* [ReactionSetup](#reactor-setup)
-
 Clone and start using [UiOcat](https://github.com/NicHaaJun/UiOcat) with JupyterLab or
 [Voila](https://voila.readthedocs.io/en/stable/using.html).
 
