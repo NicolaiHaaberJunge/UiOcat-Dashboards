@@ -19,4 +19,11 @@ as reactant. Uses the Antoine Eqs. to calculate reactant partial pressures.
 Gives _weight hourly space velocity_ as well as reactant partial pressure as a
 function of temperature.
 
+You can use the reaction calculator by:
+```
+from uiocat.reactions import ReactorSetup
+
+ReactorSetup()
+```
+
 ![image](https://user-images.githubusercontent.com/70808555/130938036-798d0b80-afe4-4849-ad01-170ea0d9a576.png)
