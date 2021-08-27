@@ -17,7 +17,7 @@ _ReactorSetup.ipynb_ <br>
 A dashboard/Calculator for setting up a catalytic reaction with various liquids
 as reactant. Uses the Antoine Eqs. to calculate reactant partial pressures. 
 Gives _weight hourly space velocity_ as well as reactant partial pressure as a
-function of temperature.
+function of temperature, catalyst mass, and carrier gas flow rates.
 
 You can use the reaction calculator by:
 ```
